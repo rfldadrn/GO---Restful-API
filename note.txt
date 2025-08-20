@@ -1,0 +1,28 @@
+Package : 
+1. GORM - MySQL 
+    Ket : Object Relation Model / Migrasi table / Helper DB (Find, Create, Update, Delete)
+    URL : https://gorm.io/docs/
+2. Viper 
+    Ket : Menghubungkan file .env ke config
+    URL : https://github.com/spf13/viper
+3. Mux 
+    Ket : For routing
+    URL : https://github.com/gorilla/mux
+4. logrus 
+    Ket : Untuk logging
+    URL : https://github.com/sirupsen/logrus
+5. golang air
+    Ket : untuk menjalankan server Go tanpa harus restart ulang kembali
+    URL : 
+    Step:
+        - Air -v => untuk cek version
+        - Air init => untuk membentuk file .air.toml
+        - Air => Untuk menjalankan
+
+
+
+
+
+
+----NOTE ----
+:=  jika membuat var baru
